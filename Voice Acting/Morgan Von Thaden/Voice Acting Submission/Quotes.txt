@@ -1,0 +1,39 @@
+Reporting Voice Lines(RT_VL_MVT_SMV_(Number here)_(Calm or UATK num))
+(Calm(maybe energenetic?) unless under attack)
+Unit reporting!
+Yes commander?
+At your service commander!
+
+Attacking Voice Lines(ATK_VL_MVT_SMV_(Number here))
+(More of aggressive tones here)
+Attacking!
+Moving into position.
+I see him!
+
+Taking Heavy Fire(HF_VL_MVT_SMV_(Number here))
+(Agressive Tones)
+NAAAAAAGAH!
+(Panic Tones)
+MEDIC!
+TAKING HEAVY FIRE!
+I'M PINNED DOWN!
+HELP!
+
+On Fire(OF_VL_MVT_SMV_(Number here))
+(Panic Tone)
+FIRE FIRE FIRE!
+FIRE! FIRE! FIRE~!
+I'M ON FIRE!
+OH GOD THIS BURNS!
+
+Friendly on Fire(FNH_F_VL_MVT_SMV_(Number here))
+(Panic Tone)
+OH GOD MY FRIEND IS ON FIRE!
+FRIENDLY UNIT ON FIRE!
+HELP ME EXTINGUSH THIS SOLDIER!
+
+Movement Lines(MV_VL_MVT_SMV_(Number here))
+(Calm Tone)
+Moving into position.
+Is that all?
+Hopefully there'll be something to shoot over there.
