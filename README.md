@@ -7,3 +7,4 @@
 #Type Multi if two or more tasks are preformed in an update, and choose only one name.
 #Please remember to put a # on every line you create, as it lets us use more lines.
 #Readme.MD,1:24 PM,9/12/2016,Bullet Barrage Spy
+#Voice Acting(Folder),1:50 PM,9/12/2016,Bullet Barrage Spy
