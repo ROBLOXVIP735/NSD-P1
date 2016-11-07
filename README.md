@@ -1,10 +1,13 @@
-# NSD-P1
-#Northsteel Development Depository 1
-#All updates must be committed to this Readme file including the date and time when these changes were uploaded, which folder they're in and what the filename is, extension included(include steam names at all times), example:Readme.MD,12:00 AM,9/12/2016,Bullet Barrage Spy
-#The Readme file is only put on this list IF it is a text change NOT involving an update.
-#List each update(to a file which is not the Readme.MD) in the commit changes(In the Readme.MD) as "Update Written", with a short description.
-#Type Text Change for each line of text changed NOT involving an update concerning a file in the Readme.MD.
-#Type Multi if two or more tasks are preformed in an update, and choose only one name.
-#Please remember to put a # on every line you create, as it lets us use more lines.
-#Readme.MD,1:24 PM,9/12/2016,Bullet Barrage Spy
-#Voice Acting(Folder),1:50 PM,9/12/2016,Bullet Barrage Spy
+NSD-P1
+
+Northsteel Development Depository 1
+
+Please list all possible changes into an update. Also list the updates you did to said file, newest first, as (Filename).(Extension, just exclude both the period and this section if it's just a folder),(Hour):(Minutes) (AM/PM),(MM/DD/YYYY),(Steam Name. The one you've had for the longest. Not your current.)
+
+Please remember to put 2 enter(returns? Spacing... just spacing) on every line you create, as it lets us use multiple lines.
+
+Readme.MD,10:55 PM,11/6/2016,Bullet Barrage Spy
+
+Voice Acting,1:50 PM,9/12/2016,Bullet Barrage Spy
+
+Readme.MD,1:24 PM,9/12/2016,Bullet Barrage Spy
